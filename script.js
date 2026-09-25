@@ -17,5 +17,5 @@ function calcularMedia(){
     const mediaFormatada = media. toFixed (1)
     document. getElementById("resultado").textContent= "Média: " + mediaFormatada + "- Situação: "+ situacao
 
-
+/*kkkkkk*/
 }
